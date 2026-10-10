@@ -1,6 +1,6 @@
 # Stocklytics
 
-RetailPulse is a Python-based retail analytics project that analyzes fashion brand pricing and stockout trends using data visualization.
+Stocklytics is a Python-based retail analytics project that analyzes fashion brand pricing and stockout trends using data visualization.
 
 The project focuses on identifying brands with high stockout rates and understanding how pricing strategies relate to product availability.
 
